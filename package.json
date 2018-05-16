@@ -1,0 +1,29 @@
+{
+  "name": "common-modules-micro",
+  "version": "1.0.0",
+  "description": "Common modules for micro services",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srinaath/common-modules-micro.git"
+  },
+  "keywords": [
+    "NPM",
+    "registry"
+  ],
+  "author": "sravichandran@deloitte.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srinaath/common-modules-micro/issues"
+  },
+  "homepage": "https://github.com/srinaath/common-modules-micro#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
